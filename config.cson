@@ -1,6 +1,7 @@
 "*":
+  "activate-power-mode": {}
   core:
-    projectHome: "/Users/jeff/projects"
+    projectHome: "/Users/jeffmattfield/projects"
     themes: [
       "atom-dark-ui"
       "atom-dark-syntax"

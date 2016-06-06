@@ -15,6 +15,8 @@
     userId: "2daf7dbe-0835-275e-a0a6-7628e162c49d"
   welcome:
     showOnStartup: false
+  "xml-formatter":
+    endLineCharacter: "LF (\\n)"
 ".html.jsp.text":
   editor:
     preferredLineLength: 200
@@ -25,5 +27,11 @@
   editor:
     preferredLineLength: 200
 ".junit-test-report.text":
+  editor:
+    preferredLineLength: 200
+".text.xml":
+  editor:
+    preferredLineLength: 200
+".text.xml.xsl":
   editor:
     preferredLineLength: 200
